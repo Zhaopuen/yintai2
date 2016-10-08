@@ -1,1 +1,1 @@
-# yintai2
+# yintai
